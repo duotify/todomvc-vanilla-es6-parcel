@@ -1,0 +1,18 @@
+{
+  "name": "todomvc-vanilla-es6",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "todomvc",
+    "es6",
+    "parcel"
+  ],
+  "author": "Will 保哥",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}

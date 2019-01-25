@@ -24,8 +24,14 @@ To get started with this example, just follow the instructions below.
     parcel index.html
     ```
 
+    or
+
+    ```sh
+    npm start
+    ```
+
 ## Credit
 
-Created by [Luke Edwards](http://www.lukeed.com)
-Refactored by [Aaron Muir Hamilton](https://github.com/xorgy)
-Modified by [Will Huang](https://www.facebook.com/will.fans)
+- Created by [Luke Edwards](http://www.lukeed.com)
+- Refactored by [Aaron Muir Hamilton](https://github.com/xorgy)
+- Modified by [Will Huang](https://www.facebook.com/will.fans)
