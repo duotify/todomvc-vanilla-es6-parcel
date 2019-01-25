@@ -8,27 +8,27 @@
 - [Learning Resources](https://github.com/ericdouglas/ES6-Learning)
 - [Parcel](https://parceljs.org/)
 
-## Installation
+## Development
 
 To get started with this example, just follow the instructions below.
 
-1. Install [Parcel](https://parceljs.org/) globally
+1. Install [Parcel](https://parceljs.org/) locally
 
     ```sh
-    npm install -g parcel
+    npm install
     ```
 
-2. Start a dev server with live reload features
-
-    ```sh
-    parcel index.html
-    ```
-
-    or
+2. Start [Parcel](https://parceljs.org/) dev server with live reload features
 
     ```sh
     npm start
     ```
+
+## Build for production
+
+```sh
+npm run build
+```
 
 ## Credit
 
